@@ -88,7 +88,7 @@ Plots and evaluation metrics are saved under `results/`.
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 * **Adishree Gupta** – Core implementation, dataset processing, Random Forest, repo setup.
 * **Akash Raghavendra H V** – KMeans clustering, draft write-up, slide preparation.
